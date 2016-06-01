@@ -84,6 +84,5 @@ public class backgroundBehaviour : MonoBehaviour {
 				}
 			}
 		}
-
 	}
 }
